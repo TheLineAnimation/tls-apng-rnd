@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# APNGC project config (may contain API keys)
+.apngc.json
+
+# Environment variables (contains API keys)
+.env
+
+# Output / delivery
+output/
+delivery/
+
+# Logs
+log.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.temp
