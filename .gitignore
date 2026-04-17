@@ -39,6 +39,9 @@ htmlcov/
 output/
 delivery/
 
+# Test image sequences (large local assets, not for version control)
+test_images_renamed/
+
 # Logs
 log.txt
 *.log
